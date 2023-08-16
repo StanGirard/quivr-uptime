@@ -7,6 +7,8 @@ sites:
     url: https://quivr.app
   - name: Quivr Docs
     url: https://brain.quivr.app
+  - name: Quivr API
+    url: https://api.quivr.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Quivr Uptime
   introTitle: "**Quivr** is your GenerativeAI Second Brain."
-  introMessage: Uptime status of  [**Quivr**](https://github.com/stangirard/quivr)
+  introMessage: Uptime status of [**Quivr**](https://github.com/stangirard/quivr)
   navbar:
     - title: Status
       href: /
