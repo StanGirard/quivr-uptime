@@ -40,7 +40,7 @@
     "url": "https://api.quivr.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.quivr.app.ico",
     "slug": "quivr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 425,
     "timeMonth": 471,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   }
 ]
