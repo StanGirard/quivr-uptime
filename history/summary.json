@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 409,
-    "timeWeek": 485,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "time": 898,
+    "timeDay": 783,
+    "timeWeek": 525,
+    "timeMonth": 898,
+    "timeYear": 898,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 82,
-    "timeWeek": 104,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 151,
+    "timeDay": 197,
+    "timeWeek": 117,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.quivr.app.ico",
     "slug": "quivr-api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 364,
-    "timeWeek": 365,
+    "timeDay": 394,
+    "timeWeek": 373,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {
-      "2023-09-12": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
