@@ -4,9 +4,9 @@
     "url": "https://quivr.app",
     "icon": "https://icons.duckduckgo.com/ip3/quivr.app.ico",
     "slug": "quivr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 830,
     "timeMonth": 668,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-07": 0
+    }
   },
   {
     "name": "Quivr Docs",
