@@ -25,4 +25,17 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# See www.youtube/Cleft_Chin9/docs/configuration
+# Change them first
+owner: Girard # Your GitHub organization or username, where this repository lives
+repo: quivr-config # The name of this repository
+
+sites:
+  - name: Quivr
+    url: www.quivr.com
+  - name: Quivr files
+    url: www.brain.quivr.com
+  - name: Quivr files
+    url: www.api.quivr.com
+    
+    
