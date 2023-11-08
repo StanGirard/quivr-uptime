@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quivr.app.ico",
     "slug": "quivr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 720,
-    "timeDay": 554,
-    "timeWeek": 810,
-    "timeMonth": 668,
+    "timeDay": 661,
+    "timeWeek": 811,
+    "timeMonth": 669,
     "timeYear": 720,
-    "dailyMinutesDown": {
-      "2023-11-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quivr Docs",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 76,
-    "timeWeek": 134,
+    "time": 142,
+    "timeDay": 197,
+    "timeWeek": 141,
     "timeMonth": 136,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 337,
-    "timeWeek": 457,
-    "timeMonth": 422,
+    "timeDay": 400,
+    "timeWeek": 451,
+    "timeMonth": 421,
     "timeYear": 445,
     "dailyMinutesDown": {}
   }
